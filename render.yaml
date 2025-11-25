@@ -13,4 +13,4 @@ services:
     disk:
       name: data
       mountPath: /data
-      sizeGB: 0.4
+      sizeGB: 1
